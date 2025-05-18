@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="145559ad-4c9c-46aa-935d-465504a17b19" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Work\apache-maven-3.9.4\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\Work\apache-maven-3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vknD2Y0LC70ZP0EgGV8HXOIr71" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FIFOThreadSimulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PCB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityScheduler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RoundRobinScheduler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scheduler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.work3.dictory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.login.html.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.WebProjectApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaWebProject/web-project/src/main/java/os&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWebProject\web-project\src\main\java\os" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWebProject\web-project\src\main\java\work2" />
+      <recent name="D:\JavaWebProject\web-project\src\main\java" />
+      <recent name="D:\JavaWebProject\web-project\src\main\java\os" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.work3.dictory.Main">
+    <configuration name="FIFOThreadSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work3.fifo.FIFOThreadSimulation" />
+      <module name="web-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work3.fifo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work3.memorymanage.Main" />
+      <module name="web-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work3.memorymanage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work2.priority.PriorityScheduler" />
+      <module name="web-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work2.priority.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoundRobinScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work2.rr.RoundRobinScheduler" />
+      <module name="web-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work2.rr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="work3.dictory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work3.dictory.Main" />
+      <module name="web-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work3.dictory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xi.webproject.WebProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.work3.dictory.Main" />
+        <item itemvalue="Application.FIFOThreadSimulation" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PriorityScheduler" />
+        <item itemvalue="Application.RoundRobinScheduler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="145559ad-4c9c-46aa-935d-465504a17b19" name="Changes" comment="" />
+      <created>1744697818907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744697818907</updated>
+      <workItem from="1744697819755" duration="1974000" />
+      <workItem from="1744888102151" duration="3605000" />
+      <workItem from="1744893602091" duration="8970000" />
+      <workItem from="1744964754728" duration="3215000" />
+      <workItem from="1745110495140" duration="3599000" />
+      <workItem from="1745121985834" duration="211000" />
+      <workItem from="1745322359334" duration="10000" />
+      <workItem from="1745491451837" duration="3243000" />
+      <workItem from="1745931831222" duration="619000" />
+      <workItem from="1745932642263" duration="4000" />
+      <workItem from="1746961638513" duration="18000" />
+      <workItem from="1747363288297" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

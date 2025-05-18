@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录示例</title>
+
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+
+        form {
+            border: 1px solid #ccc;
+            padding: 20px;
+            box-shadow: 0 0 10px #ccc;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+
+    </style>
+    <script>
+        function checkLogin() {
+            // 获取用户输入的账号和密码
+            var username = document.getElementById('username').value;
+            var password = document.getElementById('password').value;
+
+            // 设置正确的账号和密码
+            var correctUsername = 'admin';
+            var correctPassword = '123456';
+
+            // 比较用户输入的账号和密码
+            if (username === correctUsername && password === correctPassword) {
+                alert('登录成功！');
+            } else {
+                alert('账号或密码不正确！');
+            }
+        }
+    </script>
+</head>
+<body>
+
+<form>
+        <h1>登录</h1>
+    <label for="username">账号：</label>
+    <input type="text" id="username" name="username"><br><br>
+    <label for="password">密码：</label>
+    <input type="password" id="password" name="password"><br><br>
+    <button type="button" onclick="checkLogin()">登录</button>
+</form>
+
+</body>
+</html>
