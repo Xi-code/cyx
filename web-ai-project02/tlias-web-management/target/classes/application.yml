@@ -4,7 +4,7 @@ spring:
 
   #配置数据库的连接信息
   datasource:
-    url: jdbc:mysql://localhost:3306/homework07
+    url: jdbc:mysql://localhost:3306/tlias
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 1234
